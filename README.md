@@ -14,7 +14,7 @@ This is purely a hobby and none of these will be too insane, just simple cosmeti
 ## beanOCE's Pronouns!*
 #### A WEBFISHING mod to add pronouns to in-game titles!
 
-This mod is still a work in progress, but hope to release as a 3rd-party mod soon! Requires [Lure](https://github.com/Sulayre/WebfishingLure).
+This mod is still a work in progress, but hope to release as a 3rd-party mod soon! Requires [Lure 🦞](https://github.com/Sulayre/WebfishingLure).
 
 ## TODO
 - More pronouns!!!
