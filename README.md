@@ -7,18 +7,18 @@
 </h1>
 <br>
 
-<p>A collection of mods for WEBFISHING made in C#/GDScirpt! Mods that require Sulayre's Lure API or any external API's will be marked with an asterisk! (*)
+<p>A collection of mods for WEBFISHING made in C#/GDScript! Mods that require Sulayre's Lure API or any external API's will be marked with an asterisk! (*)
 This is purely a hobby and none of these will be too insane, just simple cosmetic and chat QoL mods! (may change in future ;p )</p>
 <br>
 
-## beanOCE's Pronouns!*
-#### A WEBFISHING mod to add pronouns to in-game titles!
+## Pronouns!*
+#### A WEBFISHING mod to add pronouns to in-game titles! Includes neo-pronouns and mixed pronouns!
 
 This mod is still a work in progress, but hope to release as a 3rd-party mod soon! Requires [Lure 🦞](https://github.com/Sulayre/WebfishingLure).
 
 ## TODO
-- More pronouns!!!
+- ~~More pronouns!!!~~ 2/11/24
 - Chat pronouns!
 - Package properly! (Thunderstore?)
-- Find my wallet.
+- ~~Find my wallet.~~ bought a new one :/
 
