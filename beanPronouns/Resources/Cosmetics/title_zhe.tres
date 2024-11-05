@@ -5,9 +5,9 @@
 
 [resource]
 script = ExtResource( 2 )
-name = "xir/xim Title"
-desc = "xir/xim pronouns!"
-title = "xir/xim"
+name = "zhe/zher Title"
+desc = "zhe/zher pronouns!"
+title = "zhe/zher"
 icon = ExtResource( 1 )
 species_alt_mesh = [  ]
 main_color = Color( 1, 1, 1, 1 )
