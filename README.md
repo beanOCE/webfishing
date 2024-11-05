@@ -25,6 +25,6 @@ This mod is still a work in progress, but hope to release as a 3rd-party mod soo
 ## TODO
 - ~~More pronouns!!!~~ 2/11/24
 - Chat pronouns!
-- Package properly! (Thunderstore?)
+- ~~Package properly! (Thunderstore?)~~ 3/11/24
 - ~~Find my wallet.~~ bought a new one :/
 
