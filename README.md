@@ -11,10 +11,12 @@
 This is purely a hobby and none of these will be too insane, just simple cosmetic and chat QoL mods! (may change in future ;p )</p>
 <br>
 
-## Pronouns!*
+## Pronouns!
 #### A WEBFISHING mod to add pronouns to in-game titles! Includes neo-pronouns and mixed pronouns!
 
 This mod is still a work in progress, but hope to release as a 3rd-party mod soon! **Requires [Lure 🦞](https://github.com/Sulayre/WebfishingLure).**
+
+<sup><sub>Mod *may* get discontinued/deprecated due to community drama.</sub></sup>
 
 <p>
 <img src="https://github.com/user-attachments/assets/2910cc5a-6e8f-43c3-a295-7b3ec7aabde7" height=200px width=200px>
