@@ -40,6 +40,6 @@ func _ready():
 	Lure.add_content(ID, "title_vir", "mod://Resources/Cosmetics/title_vir.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "title_vim", "mod://Resources/Cosmetics/title_vim.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "title_xe", "mod://Resources/Cosmetics/title_xe.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
-	Lure.add_content(ID, "title_xexem", "mod://Resources/Cosmetics/title_theyxem.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
+	Lure.add_content(ID, "title_xem", "mod://Resources/Cosmetics/title_theyxem.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "title_xir", "mod://Resources/Cosmetics/title_xir.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
 	Lure.add_content(ID, "title_zhe", "mod://Resources/Cosmetics/title_zhe.tres", [Lure.LURE_FLAGS.FREE_UNLOCK])
